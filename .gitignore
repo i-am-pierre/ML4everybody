@@ -1,6 +1,19 @@
+# Environments
 .venv/
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# macOS
 .DS_Store
+.Spotlight-V100
+.Trashes
+Icon
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
