@@ -8,7 +8,9 @@ Repository for me to use when learning about ML from [freeCodeCamp.org](https://
 - Python 3.11.9 (3.12 not fully compatible with scikit-learn)
 - pip
 - Jupyter Notebook
-- Dataset from UC Irvine [MAGIC Gamma Telescope](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope)
+- Dataset from UC Irvine:
+  - [MAGIC Gamma Telescope](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope)
+  - [Seoul Bike Sharing Demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
 
 ## Setting up the Project
 
