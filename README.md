@@ -12,6 +12,7 @@ Full acknowledgments, thanks and credit to [Kylie Ying](https://www.youtube.com/
 - Dataset from UC Irvine:
   - [MAGIC Gamma Telescope](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope)
   - [Seoul Bike Sharing Demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
+  - [Seeds](https://archive.ics.uci.edu/dataset/236/seeds)
 
 ## Setting up the Project
 
