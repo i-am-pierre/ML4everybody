@@ -1,14 +1,17 @@
 # ML For Everybody
 
-Repository for me to use when learning about ML from [freeCodeCamp.org](https://www.youtube.com/watch?v=i_LwzRVP7bg).
-*Developed by [Kylie Ying](https://www.youtube.com/c/YCubed)*
+Repository for me to use when learning about ML from [freeCodeCamp.org](https://www.youtube.com/watch?v=i_LwzRVP7bg). Code is being updated and tested on Apple Silicon, using Python 3.11.9.
+
+Full acknowledgments, thanks and credit to [Kylie Ying](https://www.youtube.com/c/YCubed) / [@kying18](https://github.com/kying18) for sharing here knowledge.
 
 ## Prerequisites
 
 - Python 3.11.9 (3.12 not fully compatible with scikit-learn)
 - pip
 - Jupyter Notebook
-- Dataset from UC Irvine [MAGIC Gamma Telescope](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope)
+- Dataset from UC Irvine:
+  - [MAGIC Gamma Telescope](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope)
+  - [Seoul Bike Sharing Demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
 
 ## Setting up the Project
 
